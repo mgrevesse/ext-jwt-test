@@ -1,6 +1,6 @@
 # ext-jwt-test
 
-This is a working example explained in the post [Using JWT Tokens with Node & ExtJS 5](http://elmasse.github.io/nodejs/using-jwt-with-extjs.html).
+This is a working example explained in the post [Using JWT Tokens with Node & ExtJS 5](https://elmasse.io/nodejs/using-jwt-with-extjs.html).
 
 ## What you need
 
